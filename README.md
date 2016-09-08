@@ -12,6 +12,6 @@
 - [ ] [Exercise_10:](https://)
 - [ ] [Exercise_11:](https://)
 - [ ] [Exercise_12:](https://)
-- [ ] [Exercise_12:](https://)
-- [ ] [Exercise_12:](https://)
+- [ ] [Exercise_13:](https://)
+- [ ] [Exercise_14:](https://)
 - [ ] [Final Project:] (https://)
