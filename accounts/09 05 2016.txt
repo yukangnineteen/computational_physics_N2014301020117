@@ -1,7 +1,0 @@
-breakfast: 4.1 (containing milk)
-dinner: by Kangqiao Liu
-drink: 2.6 (green tea)
-cost of production 15.0
-super: 6.6+3.5+7.5 £¨three drinks£©
-POS£º2.0 £¨invalid£ºmy invoice of App Store£©
-All£º39.3
