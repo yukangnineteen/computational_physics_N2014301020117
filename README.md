@@ -1,2 +1,2 @@
-# Homework list
+# Homework lis
 ***
