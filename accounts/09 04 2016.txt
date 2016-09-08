@@ -1,0 +1,6 @@
+breakfast£º4.0
+library debts£º2.0
+dinner£º36.0
+supper£º10.0
+¡¶¹Â¶ÀÉî´¦¡·£º19.8
+ALL£º 62.8
