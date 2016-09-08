@@ -1,6 +1,6 @@
 # Homework list
 ***
-- [x] [Exercise_01: Write your first **README.md**, the contents of which are mainly the links of all your following homework](https://github.com/yukangnineteen/computationalphysics_N2014301020117/edit/master/README.md)
+- [x] [Exercise_01: Write your first **README.md**, the contents of which are mainly the links of all your following homework](https://github.com/yukangnineteen/computationalphysics_N2014301020117/blob/master/README.md)
 - [ ] [Exercise_02:](https://)
 - [ ] [Exercise_03:](https://)
 - [ ] [Exercise_04:](https://)
