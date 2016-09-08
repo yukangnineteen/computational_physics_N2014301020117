@@ -1,8 +1,0 @@
-lunch 8.6
-drink 2.0
-App Store 2.0
-textbooks£¨Supplementary£© 19.0+9.2+24.0+41.65+26.7+23.4= 143.95
-dinner£¨instant noodles and milk£©8.5
-net cost£º10.0
-ALL£º 174.45
-Tuition£º2205.0
