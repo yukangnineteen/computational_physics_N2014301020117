@@ -1,6 +1,6 @@
 # Homework list
 ***
-- [x] [Exercise_01: Write your first *README.md*, the contents of which are mainly the links of all your following homework](http://)
+- [x] [Exercise_01: Write your first **README.md**, the contents of which are mainly the links of all your following homework](http://)
 - [ ] [Exercise_02:](http://)
 - [ ] [Exercise_03:](http://)
 - [ ] [Exercise_04:](http://)
