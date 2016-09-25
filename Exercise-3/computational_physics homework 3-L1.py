@@ -17,7 +17,7 @@ h = ("\n")
 j = (" ")
 i = 1
 while i < 20:
-    print(a + h + b + h + c + h + d + h + e + h + f + h + g + h)
+    print(a+h+b+h+c+h+d+h+e+h+f+h+g+h)
     time.sleep(0.5)
     i = i + 1
     a = j + a
