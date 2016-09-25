@@ -1,5 +1,5 @@
 # Homework list
-### Student Name: Kang Yu 
+### Student Name: Kang Yu (余 康)
 ### Student Number: 2014301020117
 ***
 - [x] [Exercise_01: Write your first **README.md**, the contents of which are mainly the links of all your following works](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/README.md)
