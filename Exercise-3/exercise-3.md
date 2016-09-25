@@ -11,6 +11,44 @@
 
 ### L1
 * [source code](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-3/computational_physics%20homework%203-L1.py)
+```python
+# -*- coding: utf-8 -*-
+"""
+Created on Sun Sep 25 11:37:38 2016
+
+@author: Administrator
+"""
+import os
+import time
+input("please Enter:")
+
+a=("#      #   #       #")
+b=(" #    #    #     #  ")
+c=("  #  #     #   #    ")
+d=("   #       # #      ")
+e=("   #       #   #    ")
+f=("   #       #     #  ")
+g=("   #       #       #")
+h=("\n")
+j=(" ")
+i=1
+os.system("cls")
+while i<20:
+    print(a+h+b+h+c+h+d+h+e+h+f+h+g+h)
+    time.sleep(0.5)
+    i=i+1
+    a=j+a
+    b=j+b
+    c=j+c
+    d=j+d
+    e=j+e
+    f=j+f
+    g=j+g
+    os.system("cls")
+    
+    
+input("please Enter:")
+```
 
 
 ![](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-3/computational_physics%20homework%203-L1.gif)
