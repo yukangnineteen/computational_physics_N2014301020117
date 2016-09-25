@@ -88,4 +88,4 @@ input("please Enter:")
 ![GIF-L2](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-3/computational_physics%20homework%203-L2.gif)
 
 ## 4.Conclusion
-* Finished
+* I have finished my homework and made some progress in python programming
