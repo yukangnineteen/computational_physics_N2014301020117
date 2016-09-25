@@ -6,7 +6,7 @@
 * L2: Draw what you want to draw in the 80×80 lattice with characters, and make them rotate. Wish you a big brain hole!(Such as letters, Matchstick Men, rockets and so on)
 
 ## 2.Background
-* This homework is very interesting to me
+* This is the first time fo me to write a more complicated python program(than exercise-2), and it is a challenge for me to accomolish the homework all by myself.  
 
 ## 3.Exercise
 
@@ -89,7 +89,7 @@ input("please Enter:")
 ![GIF-L2](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-3/computational_physics%20homework%203-L2.gif)
 
 ## 4.Conclusion
-* I have finished my homework and made some progress in python programming
+* Finally I made it alone and in the process of it I learned a lot more than what I had learned in the class
 
 ## 5.Acknowledgement
-* none
+* our devoted professor
