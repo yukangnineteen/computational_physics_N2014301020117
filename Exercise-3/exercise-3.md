@@ -1,9 +1,11 @@
 # Computational Physics Homework 3
 ***
+
 #### Student class: 14级弘毅班
 #### Student name: 余康
 #### Student Number: 2014301020117
 ***
+
 ## 1.Abstract(摘要)
 1. 在课程主页上复习这两次课程的内容，初步掌握python和matplotlib的语法规则，为接下来的课程做好准备
 2. 需要提交的作业内容
@@ -41,9 +43,10 @@ a = "".join(l)
 ## 2.Background（背景介绍）
  　　这次的作业是我第一次正式地写的python程序，虽然它们实现的功能看起来十分简单，但是我实现它们的过程去并不轻松，而且它们的原理也远比我一开始所认为的要深远得多。而且对比了其他同学的作业之后，我不得不承认我的做法有些投机取巧，因为我选择了十分规则图形作为旋转的对象。因此，我的代码虽短，但是它实现旋转的原理仍然是与其他同学别无二致的，并没有什么值得称道的地方。这次的作业L1为我们展示了计算机屏幕显像的原理，作业L2为我们展示了电影的原理。
 ***
+
 ## 3.Exercise（正文）
 
-### L1
+### **L1**
 - 平移功能的实现思路：
 
 1.将需要平移的字符串按行进行拆分
@@ -135,7 +138,7 @@ input("please Enter:")
 ![GIF-L1](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-3/computational_physics%20homework%203-L1.gif)
 
 <br />
-### L2
+### **L2**
 - 旋转功能的实现思路：
 
 1.找到原图形与旋转之后的图形的基本组成字符串
@@ -196,6 +199,7 @@ while i < 20:
     
 input("please Enter:")
 ```
+
 * [output](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-3/computational_physics%20homework%203-L2.gif)
 
 ![GIF-L2](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-3/computational_physics%20homework%203-L2.gif)
@@ -206,9 +210,11 @@ input("please Enter:")
 - 优点： 简洁
 - 缺点： 关于python语法的基础知识掌握得不牢固，需要随用随查；而且不喜欢过于繁琐的编程实践活动，从而导致了熟练度上问题；还没有养成写备注的习惯（或许是由于目前所写的程序过于简单的缘故）
 ***
+
 ## 5.Acknowledgement（致谢：本课程既然全网络共享，允许诸位同学借鉴他人的程序，如有借鉴请致谢。作业其他内容严禁『借鉴』！！！）
 * our devoted Prof. Cai
 
 ***
+
 ## 6.Reference（参考文献）
 * 除了课件之外没有什么像样的参考文献可以列出来
