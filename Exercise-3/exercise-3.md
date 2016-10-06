@@ -1,12 +1,44 @@
 # Computational Physics Homework 3
 ***
+#### Student class: 14级弘毅班
+#### Student name: 余康
+#### Student Number: 2014301020117
+***
 ## 1.Abstract(摘要)
-* Review and preview
-* L1: Move your English name on the screen
-* L2: Draw what you want to draw in the 80×80 lattice with characters, and make them rotate. Wish you a big brain hole!(Such as letters, Matchstick Men, rockets and so on)
+1. 在课程主页上复习这两次课程的内容，初步掌握python和matplotlib的语法规则，为接下来的课程做好准备
+2. 需要提交的作业内容
 
-## 2.Background
-* This is the first time fo me to write a more complicated python program(than exercise-2), and it is a challenge for me to accomplish the homework all by myself.  
+- 作业L1 在屏幕上让你的英文名字水平移动起来 
+
+> 提示：可以使用如下语句把屏幕清理干净
+```python
+import os
+i = os.system('cls')
+```
+字符移动可以用在每行前面增加空格的方法实现
+```python
+print("      ###")
+print("     #   ")
+print("     #   ")
+print("     #   ")
+print("      ###")
+```
+ 
+- 作业L2 在80*80点阵上用字符拼出你想画的东西，并让它旋转起来，希望脑洞大开！（比如字符、火柴人、火箭等等）
+ 
+> 提示：字符串变成列表
+```python
+a = "test"
+l = list(a)
+```
+列表变成字符串
+```python
+a = "".join(l)
+```
+当然有更多的方法解决这个问题，除了画的东西，方法上也希望各位能脑洞大开！
+
+## 2.Background（背景介绍）
+
 
 ## 3.Exercise
 
