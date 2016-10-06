@@ -13,6 +13,7 @@
 ***
 ## **Study Motivation**
 > #### *　The world won't care about your self-easteem. The world will expect you to accomplish something before you feel good about yourself.*　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　－*by* ***Bill Gates***
+
 ![bill Gates](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-1/Bill%20Gates%20image.jpg)
 ***
 ## **Homework list**
