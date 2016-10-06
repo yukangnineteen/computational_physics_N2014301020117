@@ -1,12 +1,12 @@
 # Hello World!   ***(Welcome to my repository!)***
-<br />
+***
 ## **Personal Information**
-### Student Class: 14级弘毅班 
-### Student Name: Kang Yu （余 康）
-### Student Number: 2014301020117
-### Phone Number: 13476036958
-### Email Address: yukangmbbz@163.com
-### *(If you have any questions or suggestions, please contact me. You are welcomed!)*
+#### Student Class: 14级弘毅班 
+#### Student Name: Kang Yu （余 康）
+#### Student Number: 2014301020117
+#### Phone Number: 13476036958
+#### Email Address: yukangmbbz@163.com
+#### *(If you have any questions or suggestions, please contact me. You are welcomed!)*
 ***
 ## **Brief Introduction**
 ### 　This repository is eastablished for the course-**Computational Physics** by Professor Cai(from Wuhan University) in the autumn semester of 2016. The main function of it is to upload my homework of the course. And some of my learning experirence will also be included. I have to claim that this is my first time to learn programming regularly, so I guess I can't offer too much valid help to you. Copying and pasting of my codes is allowed but acknowlegement of my contribution is in return expected.
