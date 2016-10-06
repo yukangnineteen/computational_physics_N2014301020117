@@ -9,7 +9,7 @@
 #### *(If you have any questions or suggestions, please contact me. You are welcomed!)*
 ***
 ## **Brief Introduction**
-### 　This repository is eastablished for the course-**Computational Physics** by Professor Cai(from Wuhan University) in the autumn semester of 2016. The main function of it is to upload my homework of the course. And some of my learning experirence will also be included. I have to claim that this is my first time to learn programming regularly, so I guess I can't offer too much valid help to you. Copying and pasting of my codes is allowed but acknowlegement of my contribution is in return expected.
+#### 　This repository is eastablished for the course-**Computational Physics** by Professor Cai(from Wuhan University) in the autumn semester of 2016. The main function of it is to upload my homework of the course. And some of my learning experirence will also be included. I have to claim that this is my first time to learn programming regularly, so I guess I can't offer too much valid help to you. Copying and pasting of my codes is allowed but acknowlegement of my contribution is in return expected.
 ***
 ## **Homework list**
 #### - [x] [Exercise_01: Preparations for the course](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/README.md)
