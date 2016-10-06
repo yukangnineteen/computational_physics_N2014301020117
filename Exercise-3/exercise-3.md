@@ -133,7 +133,7 @@ input("please Enter:")
 * [output](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-3/computational_physics%20homework%203-L1.gif)
 
 ![GIF-L1](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-3/computational_physics%20homework%203-L1.gif)
-***
+<br />
 ### L2
 - 旋转功能的实现思路：
 
