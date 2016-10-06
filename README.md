@@ -1,7 +1,7 @@
-# Homework list
+# Homework lis
+### ***(Welcome to my repositories)***
 ### Student Name: Kang Yu （余 康）
 ### Student Number: 2014301020117
-### ***Welcome to my repositories!***
 ***
 
 #### - [x] [Exercise_01: Preparations for the course](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/README.md)
