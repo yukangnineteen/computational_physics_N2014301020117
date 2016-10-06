@@ -1,5 +1,4 @@
-# Homework lis
-### ***(Welcome to my repositories)***
+# Homework list ### ***(Welcome to my repositories!)***
 ### Student Name: Kang Yu （余 康）
 ### Student Number: 2014301020117
 ***
