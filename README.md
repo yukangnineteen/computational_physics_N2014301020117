@@ -17,9 +17,9 @@
 ![bill Gates](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-1/Bill%20Gates%20image.jpg)
 ***
 ## **Homework List**
-#### (✔)[Exercise_01: Preparations for the course](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-1/exercise-1.md)
-#### (✔)[Exercise_02: Thr first python program](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-2/exercise-2.md)
-#### (✔)[Exercise_03: Just move and rotate](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-3/exercise-3.md)
+#### （✔）[Exercise_01: Preparations for the course](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-1/exercise-1.md)
+#### （✔）[Exercise_02: Thr first python program](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-2/exercise-2.md)
+#### （✔）[Exercise_03: Just move and rotate](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-3/exercise-3.md)
 #### [Exercise_04:](https://)
 #### [Exercise_05:](https://)
 #### [Exercise_06:](https://)
