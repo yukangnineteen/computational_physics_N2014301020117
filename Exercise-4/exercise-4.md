@@ -103,10 +103,11 @@ where in the last approximation we have assumed that ![公式21](http://latex.co
 
 ![图像1](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-4/computational_physics%20homework%204(old).png)
 
-***As we see, this program is too naive!***
+　　***As we see, this program is too naive!***
 
 ***
-#### **So, here comes the improved version**
+
+* **So, here comes the improved version**
 
 
 
