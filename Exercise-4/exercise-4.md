@@ -33,7 +33,7 @@
 
 ## **3.Main（正文）**
 ### Way of Thinking
-* An analytic approach
+* **An analytic approach**
 
 　First of all, I find that in this problem A and B are completely symmetric. And another important fact is that the total number of nuclei A and B is constant, which means we can can konw either from the other. So, we can just take one of A and B as pivot element and I choose A.
 
@@ -65,7 +65,7 @@ OR
 
 ![公式15](http://latex.codecogs.com/gif.latex?N_A%28t%29%20%3D%20%5Cfrac%7BN%7D%7B2%7D)
 
-* A Numerical approach
+* **A Numerical approach**
 
 　First of all, all of our successional disscusion is based on the Taylor expansion for <img src="http://latex.codecogs.com/gif.latex?N_A" alt="" title="" />
  
