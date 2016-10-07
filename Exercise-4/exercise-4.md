@@ -89,7 +89,7 @@ where in the last approximation we have assumed that ![公式21](http://latex.co
  
 ### Design of Program
 
-* Firstly I will show my first program which is completely imitated from Prof. Cai's sample program
+* **Firstly I will show my first program which is completely imitated from Prof. Cai's sample program**
 
 ### [Code: Please Click Here](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-4/computational_physics%20homework%204(old).py)
 
@@ -141,8 +141,9 @@ a.calculate()
 a.show_results()
 a.store_results()
 ```
+***
 
-* This is its data file
+* **This is its data file**
 
 ### [Data: Please Click Here](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-4/computational_physics%20homework%204%20data(old).txt)
 
@@ -347,8 +348,9 @@ a.store_results()
 4.94999999999999 50.00147563327154 49.99852436672846
 
 4.99999999999999 50.001328069944385 49.998671930055615
+***
 
-* This is its figure results
+* **This is its figure results**
 
 ### [Figure: Please Click Here](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-4/computational_physics%20homework%204(old).png)
 
