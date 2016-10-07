@@ -61,9 +61,13 @@
 
 (It indeed satisfies the precoondition.)
 
-**OR** !
+OR
 
 ![公式15](http://latex.codecogs.com/gif.latex?N_A%28t%29%20%3D%20%5Cfrac%7BN%7D%7B2%7D)
+
+* A Numerical approach
+
+
 
 
 
