@@ -105,7 +105,8 @@ where in the last approximation we have assumed that ![公式21](http://latex.co
 
 ***As we see, this program is too naive!***
 
-* **So, here comes the improved version**
+***
+#### **So, here comes the improved version**
 
 
 
