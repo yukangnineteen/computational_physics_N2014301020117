@@ -3,7 +3,7 @@
 
 #### Student class: 14级弘毅班
 #### Student name: 余康
-#### Student Number: 2014301020117
+#### Student number: 2014301020117
 ***
 
 ## 1.Abstract(摘要)
