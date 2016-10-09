@@ -191,6 +191,8 @@ where in the last approximation we have assumed that ![公式21](http://latex.co
 
 ![图像8](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-4/4(improved-7)%20big%20figure.png)
 
+**(Tips: I choose small x-axis limits to magnify the errors between approximation values and the true values)**
+
 **Testing Results 3: The smaller time steps you choose, the smaller errors between approximation values and the true values are**
 
 **Testing Results(in all): My programs are reasonable. But I have to say, there is a little trouble(especially with the true values) when the time step approaches the time constant. It may well be the arithmetic problem**
@@ -205,7 +207,7 @@ where in the last approximation we have assumed that ![公式21](http://latex.co
 
 ![图像9](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-4/4(improved-10)%20figure%201.png)
 
-* **Error 1: Time Step = 0.05, Time Constant = 0.05**
+* **Error 2: Time Step = 0.05, Time Constant = 0.05**
 
 ### [　　Code: Please Click Here](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-4/4(improved-10)%202.py)
 
@@ -223,7 +225,8 @@ where in the last approximation we have assumed that ![公式21](http://latex.co
 
 **A question occurs to me when I solved this double decay problem-"What if the time constants of two nuclei differ?" So I decide to change my programs a little bit to solve this new problem(generalization of the double decay problem)**
 
-**There are roughly two situations**
+**There are roughly two situations:**
+
 
 * **Situation 1: Time Constant A = 1, Time Constant B = 2**
 
@@ -253,7 +256,7 @@ where in the last approximation we have assumed that ![公式21](http://latex.co
 
 ### [　　Figure: Please Click Here](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-4/4(improved-14)%20figure.png)
 
-![图像13](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-4/4(improved-14)%20figure.png)
+![图像13](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-4/4(improved-14).png)
 
 **I am sorry that I skip the theoretical derivation and some theoretical proof, and omit some useful tips of plotting in python(matplotlib)**
 
@@ -265,7 +268,8 @@ where in the last approximation we have assumed that ![公式21](http://latex.co
 
 * **If their time constants are the same, they will finally reach an equilibrium where the numbers of two types of nuclei are the same**
 
-* **If their time constants are not the same, they will finally reach an equilibrium where the numbers of two types of nuclei are not the same. And the larger time constant one type of nuclei have, the larger the final number of them are. Besides, I also find that if their total number are the same, their final equilibrium are the same whatever the initial conditions(i.e., initial numbers) are.
+* **If their time constants are not the same, they will finally reach an equilibrium where the numbers of two types of nuclei are not the same. And the larger time constant one type of nuclei have, the larger the final number of them are. Besides, I also find that if their total number are the same, their final equilibrium are the same whatever the initial conditions(i.e., initial numbers) are.**
+
 ***
 
 ## **5.Acknowlegement（致谢）**
