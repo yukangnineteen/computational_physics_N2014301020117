@@ -154,8 +154,6 @@ where in the last approximation we have assumed that ![公式21](http://latex.co
 
 ### Testing my program
 
-**Firstly, I choose different time steps**
-
 * **Test 1: Three Different Time Steps: Time Step 1 = 0.05, Time Step 2 = 0.01, Time Step 3 = 0.1**
 
 ### [　　Code: Please Click Here](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-4/4(improved-5).py)
@@ -195,7 +193,10 @@ where in the last approximation we have assumed that ![公式21](http://latex.co
 
 **Testing Results 3: The smaller time steps you choose, the smaller errors between approximation values and the true values are**
 
-**Testing Results(in all): My programs are reasonable. But I have to say, there is a little trouble(especially with the true values) when the time step approaches the time constant. It may well be the arithmetic problem**
+<br />
+**Testing Results(in all): My programs are reasonable. But I have to say, there is a little trouble(especially with the true values) when the time step approaches the time constant. It may well be the arithmetic problem.**
+
+**There are roughly two types of errors:**
 
 * **Error 1: Time Step = 0.1, Time Constant = 0.05**
 
