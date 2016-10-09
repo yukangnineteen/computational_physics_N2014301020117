@@ -87,9 +87,11 @@ where in the last approximation we have assumed that ![公式21](http://latex.co
  
  ![公式23](http://latex.codecogs.com/gif.latex?N_A%28t%20&plus;%20%5CDelta%20t%29%20%5Capprox%20N_A%28t%29%20&plus;%20%5Cfrac%7BN%20-%202N_A%7D%7B%5Ctau%7D%5CDelta%20t)
  
-### Design of Program
+### Design of Program and Rsults
 
-* **Firstly I will show my first program which is completely imitated from Prof. Cai's sample program**
+**Firstly I will show my first program which is completely imitated from Prof. Cai's sample program**
+
+* **This is its source codes**
 
 ### [　　Code: Please Click Here](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-4/4(old).py)
 
@@ -107,19 +109,169 @@ where in the last approximation we have assumed that ![公式21](http://latex.co
 
 ***
 
-* **So, here comes the improved version**
+**So, here comes the improved version: I designed three situations of initial conditions**
+
+* **Situation 1:　NA = 100,　NB = 0**
+
+### [　　Code: Please Click Here](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-4/4(improved-1).py)
+
+### [　　Data: Please Click Here](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-4/4(improved-1)%20data.txt)
+
+### [　　Figure: Please Click Here](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-4/4(improved-1)%20figure.png)
+
+![图像2](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-4/4(improved-1)%20figure.png)
+
+* **Situation 2:　NA = 75,　NB = 25**
+
+### [　　Code: Please Click Here](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-4/4(improved-2).py)
+
+### [　　Data: Please Click Here](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-4/4(improved-2)%20data.txt)
+
+### [　　Figure: Please Click Here](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-4/4(improved-2)%20figure.png)
+
+![图像3](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-4/4(improved-2)%20figure.png)
+
+* **Situation 3:　NA = 50,　NB = 50**
+
+### [　　Code: Please Click Here](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-4/4(improved-3).py)
+
+### [　　Data: Please Click Here](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-4/4(improved-3)%20data.txt)
+
+### [　　Figure: Please Click Here](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-4/4(improved-3)%20figure.png)
+
+![图像4](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-4/4(improved-3)%20figure.png)
 
 
+* **Three Situations in One Figure(for convenience of comparation)**
+
+### [　　Code: Please Click Here](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-4/4(improved-4).py)
+
+### [　　Data: Please Click Here](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-4/4(improved-4)%20data.txt)
+
+### [　　Figure: Please Click Here](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-4/4(improved-4)%20figure.png)
+
+![图像5](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-4/4(improved-4)%20figure.png)
+
+### Testing my program
+
+**Firstly, I choose different time steps**
+
+* **Test 1: Three Different Time Steps: Time Step 1 = 0.05, Time Step 2 = 0.01, Time Step 3 = 0.1**
+
+### [　　Code: Please Click Here](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-4/4(improved-5).py)
+
+### [　　Data: Please Click Here](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-4/4(improved-5)%20data.txt)
+
+### [　　Figure: Please Click Here](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-4/4(improved-5)%20figure.png)
+
+![图像6](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-4/4(improved-5)%20figure.png)
+
+**Testing Results 1: The smaller time steps you choose, the bigger approximation values are**
+
+* **Test 2: Compare Approximation Solution to the True Solution**
+
+### [　　Code: Please Click Here](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-4/4(improved-6).py)
+
+### [　　Data: Please Click Here](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-4/4(improved-6)%20data.txt)
+
+### [　　Figure: Please Click Here](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-4/4(improved-6)%20figure.png)
+
+![图像7](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-4/4(improved-6)%20figure.png)
 
 
+**Testing Results 2: In my approach, approximation values are smaller than the true values**
 
+* **Test 3: Compare Approximation Solution to the True Solution in Different Tinme Steps(i.e., Combine Test 1 and Test 2)**
 
+### [　　Code: Please Click Here](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-4/4(improved-7).py)
 
-　
+### [　　Data: Please Click Here](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-4/4(improved-7)%20data.txt)
 
+### [　　Figure: Please Click Here](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-4/4(improved-7)%20figure.png)
 
+![图像8](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-4/4(improved-7)%20big%20figure.png)
 
+**Testing Results 3: The smaller time steps you choose, the smaller errors between approximation values and the true values are**
 
+**Testing Results(in all): My programs are reasonable. But I have to say, there is a little trouble(especially with the true values) when the time step approaches the time constant. It may well be the arithmetic problem**
+
+* **Error 1: Time Step = 0.1, Time Constant = 0.05**
+
+### [　　Code: Please Click Here](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-4/4(improved-10)%201.py)
+
+### [　　Data: Please Click Here](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-4/4(improved-10)%20data%201.txt)
+
+### [　　Figure: Please Click Here](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-4/4(improved-10)%20figure%201.png)
+
+![图像9](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-4/4(improved-10)%20figure%201.png)
+
+* **Error 1: Time Step = 0.05, Time Constant = 0.05**
+
+### [　　Code: Please Click Here](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-4/4(improved-10)%202.py)
+
+### [　　Data: Please Click Here](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-4/4(improved-10)%20data%202.txt)
+
+### [　　Figure: Please Click Here](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-4/4(improved-10)%20figure%202.png)
+
+![图像10](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-4/4(improved-10)%20figure%202.png)
+
+**Error Desciption: The curves gradually lose their smoothness, and the true value curve even begins to show vabrations**
+
+**I am sorry I have no more time to explain these errors**
+
+### Furthur Discussion and Extension
+
+**A question occurs to me when I solved this double decay problem-"What if the time constants of two nuclei differ?" So I decide to change my programs a little bit to solve this new problem(generalization of the double decay problem)**
+
+**There are roughly two situations**
+
+* **Situation 1: Time Constant A = 1, Time Constant B = 2**
+
+### [　　Code: Please Click Here](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-4/4(improved-8).py)
+
+### [　　Data: Please Click Here](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-4/4(improved-8)%20data.txt)
+
+### [　　Figure: Please Click Here](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-4/4(improved-8)%20figure.png)
+
+![图像11](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-4/4(improved-8)%20figure.png)
+
+* **Situation 2: Time Constant A = 2, Time Constant B = 1**
+
+### [　　Code: Please Click Here](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-4/4(improved-9).py)
+
+### [　　Data: Please Click Here](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-4/4(improved-9)%20data.txt)
+
+### [　　Figure: Please Click Here](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-4/4(improved-9)%20figure.png)
+
+![图像12](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-4/4(improved-9)%20figure.png)
+
+* **Finally, I set different initial conditionals and put them in one figure(to check whehter their final numbers are the same)** 
+
+### [　　Code: Please Click Here](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-4/4(improved-14).py)
+
+### [　　Data: Please Click Here](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-4/4(improved-14)%20data.txt)
+
+### [　　Figure: Please Click Here](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-4/4(improved-14)%20figure.png)
+
+![图像13](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-4/4(improved-14)%20figure.png)
+
+**I am sorry that I skip the theoretical derivation and some theoretical proof, and omit some useful tips of plotting in python(matplotlib)**
+
+***
+
+## **4.Conclusion（结论）**
+
+#### From the results of this problem and its generalization, I can draw a conclusion that the numbers of two types of nuclei will finally reach an equilibrium no matter whether the time constants of two types of nuclei are the same: And
+
+* **If their time constants are the same, they will finally reach an equilibrium where the numbers of two types of nuclei are the same**
+
+* **If their time constants are not the same, they will finally reach an equilibrium where the numbers of two types of nuclei are not the same. And the larger time constant one type of nuclei have, the larger the final number of them are. Besides, I also find that if their total number are the same, their final equilibrium are the same whatever the initial conditions(i.e., initial numbers) are.
+***
+
+## **5.Acknowlegement（致谢）**
+* our devoted Prof. Cai
+* Stan(Tan Shan)
+* Baidu(for plotting tips of python(matlotlib))
 
 
 
