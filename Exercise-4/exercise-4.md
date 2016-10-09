@@ -113,42 +113,42 @@ where in the last approximation we have assumed that ![公式21](http://latex.co
 
 * **Situation 1:　NA = 100,　NB = 0**
 
-### [　　Code: Please Click Here](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-4/4(improved-1).py)
+#### [　　Code: Please Click Here](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-4/4(improved-1).py)
 
-### [　　Data: Please Click Here](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-4/4(improved-1)%20data.txt)
+#### [　　Data: Please Click Here](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-4/4(improved-1)%20data.txt)
 
-### [　　Figure: Please Click Here](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-4/4(improved-1)%20figure.png)
+#### [　　Figure: Please Click Here](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-4/4(improved-1)%20figure.png)
 
 ![图像2](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-4/4(improved-1)%20figure.png)
 
 * **Situation 2:　NA = 75,　NB = 25**
 
-### [　　Code: Please Click Here](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-4/4(improved-2).py)
+#### [　　Code: Please Click Here](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-4/4(improved-2).py)
 
-### [　　Data: Please Click Here](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-4/4(improved-2)%20data.txt)
+#### [　　Data: Please Click Here](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-4/4(improved-2)%20data.txt)
 
-### [　　Figure: Please Click Here](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-4/4(improved-2)%20figure.png)
+#### [　　Figure: Please Click Here](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-4/4(improved-2)%20figure.png)
 
 ![图像3](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-4/4(improved-2)%20figure.png)
 
 * **Situation 3:　NA = 50,　NB = 50**
 
-### [　　Code: Please Click Here](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-4/4(improved-3).py)
+#### [　　Code: Please Click Here](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-4/4(improved-3).py)
 
-### [　　Data: Please Click Here](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-4/4(improved-3)%20data.txt)
+#### [　　Data: Please Click Here](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-4/4(improved-3)%20data.txt)
 
-### [　　Figure: Please Click Here](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-4/4(improved-3)%20figure.png)
+#### [　　Figure: Please Click Here](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-4/4(improved-3)%20figure.png)
 
 ![图像4](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-4/4(improved-3)%20figure.png)
 
 
 * **Three Situations in One Figure(for convenience of comparation)**
 
-### [　　Code: Please Click Here](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-4/4(improved-4).py)
+#### [　　Code: Please Click Here](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-4/4(improved-4).py)
 
-### [　　Data: Please Click Here](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-4/4(improved-4)%20data.txt)
+#### [　　Data: Please Click Here](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-4/4(improved-4)%20data.txt)
 
-### [　　Figure: Please Click Here](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-4/4(improved-4)%20figure.png)
+#### [　　Figure: Please Click Here](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-4/4(improved-4)%20figure.png)
 
 ![图像5](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-4/4(improved-4)%20figure.png)
 
@@ -156,11 +156,11 @@ where in the last approximation we have assumed that ![公式21](http://latex.co
 
 * **Test 1: Three Different Time Steps: Time Step 1 = 0.05, Time Step 2 = 0.01, Time Step 3 = 0.1**
 
-### [　　Code: Please Click Here](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-4/4(improved-5).py)
+#### [　　Code: Please Click Here](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-4/4(improved-5).py)
 
-### [　　Data: Please Click Here](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-4/4(improved-5)%20data.txt)
+#### [　　Data: Please Click Here](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-4/4(improved-5)%20data.txt)
 
-### [　　Figure: Please Click Here](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-4/4(improved-5)%20figure.png)
+#### [　　Figure: Please Click Here](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-4/4(improved-5)%20figure.png)
 
 ![图像6](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-4/4(improved-5)%20figure.png)
 
@@ -168,11 +168,11 @@ where in the last approximation we have assumed that ![公式21](http://latex.co
 
 * **Test 2: Compare Approximation Solution to the True Solution**
 
-### [　　Code: Please Click Here](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-4/4(improved-6).py)
+#### [　　Code: Please Click Here](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-4/4(improved-6).py)
 
-### [　　Data: Please Click Here](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-4/4(improved-6)%20data.txt)
+#### [　　Data: Please Click Here](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-4/4(improved-6)%20data.txt)
 
-### [　　Figure: Please Click Here](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-4/4(improved-6)%20figure.png)
+#### [　　Figure: Please Click Here](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-4/4(improved-6)%20figure.png)
 
 ![图像7](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-4/4(improved-6)%20figure.png)
 
@@ -181,11 +181,11 @@ where in the last approximation we have assumed that ![公式21](http://latex.co
 
 * **Test 3: Compare Approximation Solution to the True Solution in Different Tinme Steps(i.e., Combine Test 1 and Test 2)**
 
-### [　　Code: Please Click Here](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-4/4(improved-7).py)
+#### [　　Code: Please Click Here](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-4/4(improved-7).py)
 
-### [　　Data: Please Click Here](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-4/4(improved-7)%20data.txt)
+#### [　　Data: Please Click Here](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-4/4(improved-7)%20data.txt)
 
-### [　　Figure: Please Click Here](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-4/4(improved-7)%20figure.png)
+#### [　　Figure: Please Click Here](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-4/4(improved-7)%20figure.png)
 
 ![图像8](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-4/4(improved-7)%20big%20figure.png)
 
@@ -200,21 +200,21 @@ where in the last approximation we have assumed that ![公式21](http://latex.co
 
 * **Error 1: Time Step = 0.1, Time Constant = 0.05**
 
-### [　　Code: Please Click Here](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-4/4(improved-10)%201.py)
+#### [　　Code: Please Click Here](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-4/4(improved-10)%201.py)
 
-### [　　Data: Please Click Here](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-4/4(improved-10)%20data%201.txt)
+#### [　　Data: Please Click Here](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-4/4(improved-10)%20data%201.txt)
 
-### [　　Figure: Please Click Here](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-4/4(improved-10)%20figure%201.png)
+#### [　　Figure: Please Click Here](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-4/4(improved-10)%20figure%201.png)
 
 ![图像9](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-4/4(improved-10)%20figure%201.png)
 
 * **Error 2: Time Step = 0.05, Time Constant = 0.05**
 
-### [　　Code: Please Click Here](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-4/4(improved-10)%202.py)
+#### [　　Code: Please Click Here](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-4/4(improved-10)%202.py)
 
-### [　　Data: Please Click Here](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-4/4(improved-10)%20data%202.txt)
+#### [　　Data: Please Click Here](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-4/4(improved-10)%20data%202.txt)
 
-### [　　Figure: Please Click Here](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-4/4(improved-10)%20figure%202.png)
+#### [　　Figure: Please Click Here](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-4/4(improved-10)%20figure%202.png)
 
 ![图像10](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-4/4(improved-10)%20figure%202.png)
 
@@ -231,31 +231,31 @@ where in the last approximation we have assumed that ![公式21](http://latex.co
 
 * **Situation 1: Time Constant A = 1, Time Constant B = 2**
 
-### [　　Code: Please Click Here](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-4/4(improved-8).py)
+#### [　　Code: Please Click Here](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-4/4(improved-8).py)
 
-### [　　Data: Please Click Here](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-4/4(improved-8)%20data.txt)
+#### [　　Data: Please Click Here](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-4/4(improved-8)%20data.txt)
 
-### [　　Figure: Please Click Here](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-4/4(improved-8)%20figure.png)
+#### [　　Figure: Please Click Here](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-4/4(improved-8)%20figure.png)
 
 ![图像11](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-4/4(improved-8)%20figure.png)
 
 * **Situation 2: Time Constant A = 2, Time Constant B = 1**
 
-### [　　Code: Please Click Here](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-4/4(improved-9).py)
+#### [　　Code: Please Click Here](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-4/4(improved-9).py)
 
-### [　　Data: Please Click Here](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-4/4(improved-9)%20data.txt)
+#### [　　Data: Please Click Here](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-4/4(improved-9)%20data.txt)
 
-### [　　Figure: Please Click Here](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-4/4(improved-9)%20figure.png)
+#### [　　Figure: Please Click Here](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-4/4(improved-9)%20figure.png)
 
 ![图像12](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-4/4(improved-9)%20figure.png)
 
 * **Finally, I set different initial conditionals and put them in one figure(to check whehter their final numbers are the same)** 
 
-### [　　Code: Please Click Here](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-4/4(improved-14).py)
+#### [　　Code: Please Click Here](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-4/4(improved-14).py)
 
-### [　　Data: Please Click Here](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-4/4(improved-14)%20data.txt)
+#### [　　Data: Please Click Here](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-4/4(improved-14)%20data.txt)
 
-### [　　Figure: Please Click Here](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-4/4(improved-14)%20figure.png)
+#### [　　Figure: Please Click Here](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-4/4(improved-14)%20figure.png)
 
 ![图像13](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-4/4(improved-14).png)
 
