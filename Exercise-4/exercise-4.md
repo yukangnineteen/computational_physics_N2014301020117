@@ -271,6 +271,12 @@ where in the last approximation we have assumed that ![公式21](http://latex.co
 
 * **If their time constants are not the same, they will finally reach an equilibrium where the numbers of two types of nuclei are not the same. And the larger time constant one type of nuclei have, the larger the final number of them are. Besides, I also find that if their total number are the same, their final equilibrium are the same whatever the initial conditions(i.e., initial numbers) are.**
 
+#### And there are still some problems on programming for me:
+
+* **I don't understand the save_results function**
+
+* **I don't know how to initialize the initial conditions in the executable program**
+
 ***
 
 ## **5.Acknowlegement（致谢）**
