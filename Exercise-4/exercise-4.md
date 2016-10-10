@@ -179,7 +179,7 @@ where in the last approximation we have assumed that ![公式21](http://latex.co
 
 **Testing Results 2: In my approach, approximation values are smaller than the true values**
 
-* **Test 3: Compare Approximation Solution to the True Solution in Different Tinme Steps(i.e., Combine Test 1 and Test 2)**
+* **Test 3: Compare Approximation Solution to the True Solution in Different Time Steps(i.e., Combine Test 1 and Test 2)**
 
 #### [　　Code: Please Click Here](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-4/4(improved-7).py)
 
