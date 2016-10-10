@@ -87,8 +87,7 @@ where in the last approximation we have assumed that ![公式21](http://latex.co
  
  ![公式23](http://latex.codecogs.com/gif.latex?N_A%28t%20&plus;%20%5CDelta%20t%29%20%5Capprox%20N_A%28t%29%20&plus;%20%5Cfrac%7BN%20-%202N_A%7D%7B%5Ctau%7D%5CDelta%20t)
  
-### Design of Program and Rsult
-#### (The unit of time is second) 
+### Design of Program and Rsult　(Statement: The unit of time is second)
 
 **Firstly I will show my first program which is completely imitated from Prof. Cai's sample program**
 
