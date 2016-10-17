@@ -5,11 +5,6 @@
 #### Student name: Kang Yu
 #### Student number: 2014301020117
 ***
-# Computational Physics Homework 5
-
-
-----------
-
 
 ## **1.Abstract**
 > 抱歉作业更新晚了！2.2章作业任选一题。
