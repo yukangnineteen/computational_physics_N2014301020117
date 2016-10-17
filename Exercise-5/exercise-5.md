@@ -106,7 +106,6 @@
 ![formula plus 6](http://latex.codecogs.com/gif.latex?%5Cfrac%7Bdv_y%7D%7Bdt%7D%20%3D%20-%20g%2C)
 
 **The situation is our familiar Euler Method for 1st-order OED.**
-
 \n
 
 ### Design of Program and Result 
