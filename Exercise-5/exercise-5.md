@@ -113,6 +113,8 @@
 
 **(Declaration: The unit of distance is *km*, and other units are in SI)**
 
+**(Another Declaration: All the constant initial values are taken from the text book or from authoritative references, and they are '*y0 = k_BT/mg ≈ 1.0E+4 m, a ≈ 6.5 K/km, T0 = 300 K, α ≈ 2.5, G = 6.67E-20 N·m²/kg², ME = 5.98E24 kg, RE = 6317 km*')**
+
 **Firstly, I take air drag as a commom premise. Then I will the trojectory of cannon shell only affected by air drag**
 
 * **This is its source codes**
@@ -148,7 +150,7 @@
 ![!\[Figure3\](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-5/5%20figure%203.png)][3]
 
 
-**Fourthly, (only) add the ***g***'s independence on altitude**
+**Fourthly, (only) add the *g*'s independence on altitude**
 
 #### [　　Code: Please Click Here](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-5/5%20code%204.py)
 
@@ -157,12 +159,44 @@
 #### **Figure:**
 ![!\[Figure4\](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-5/5%20figure%204.png)][4]
 
+**Maybe, smart you have found something wrong. Yes, there is no comparison. To be more acurrate, there is forever a lonely curve in my previous figures. It is because I hadn't thought up any simple approaches to plot many curves with different initial conditions in one figure. Luckily, finally, I made it with the help of my classmate.
 
+***So, here comes the improved version(Integrated edition, which means all infaormation are intergrated in only one figure)***
+
+***
+
+**There are some important skills in the new program:**
+
+* **Class Inheritance**
+
+* **Repeated Input**
+
+* **New Matplotlib Skills**
+
+
+**There are also some useful tricks in the new program:** 
+
+* **some small and useful functions(in math, pl, ...)**
+
+* **...**
+
+**When it comes to the running results**
+
+### [　　Code: Please Click Here](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-5/5(improved)%20code.py)
+
+### [　　Figure: Please Click Here](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-5/5(improved)%20figure.png)
+
+#### **Figure:**
+
+![Figure 5](https://raw.githubusercontent.com/yukangnineteen/computational_physics_N2014301020117/master/Exercise-5/5(improved)%20figure.png)
+
+**Where there is a figure, there is a truth. Please ignore the fact that some of the cures are in the same color, which is simply because there isn't enough types of color for me to draw such plenty curves. Thank you!**
 
 ----------
 ## 4.Conclusion
-#### First, I am sorry I fail to write smoothly in Cmd Markdown.
+#### First, I am sorry I fail to write smoothly in Cmd Markdown. So I drop the homework edition of Cmd Markdown.
 
+#### 
 
 
 
