@@ -226,7 +226,7 @@
 
 #### Self-reflection
 
-* **One of the drawbacks of my homework: verbose**
+* **Some of the drawbacks of my homework: verbose; disordered; levels are not clear**
 
 * **One of the progress of my homework: I begin to write notes in my programs**
 
