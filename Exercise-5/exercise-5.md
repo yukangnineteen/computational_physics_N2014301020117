@@ -212,13 +212,10 @@
 
 **quantative outcomes:**
 
-> initial velocity: 70.0 m/s
-  
-  time step: 0.01 s
-  
-  maximum firing range: 0.4915 km
-  
-  corresponding firing angle: 44.9°. 
+>initial velocity: 70.0 m/s
+ time step: 0.01 s
+ maximum firing range: 0.4915 km
+ corresponding firing angle: 44.9°. 
   
 **(By the way, I find I forget to give the method of solving the maxmizing problem. To be Brief, SCANNING till the range decreases. The mathematical base is the monotonicity)**
 
