@@ -56,11 +56,13 @@
 
 ![formula 5](http://latex.codecogs.com/gif.latex?%5Crho%20%3D%20%5Crho_0%20exp%28-%20y%20/%20y_0%29)
 
-#### where ***y0 = k_BT/mg ≈ 1.0 × 10 ^ 4m***, and ***ρ*** is density at sea level (***y = 0***).
+#### where ***y0 = k_BT/mg ≈ 1.0E+4 m***, and ***ρ*** is density at sea level (***y = 0***).
 
 #### From this and what I have emphasized before, we have:
 
 ![formula 6](http://latex.codecogs.com/gif.latex?F%5E*_%7Bdrag%7D%20%3D%20exp%28-%20y%20/%20y_0%29F_%7Bdrag%7D)
+***
+
 
 
 **2.Adiabatic model**
@@ -83,6 +85,28 @@
 ### Way of Thinking
 
 **I still choose to use the dirty and quick method - The Euler Mehtod (So no more illumination is to be made)**
+* **Other Than:**
+
+**There is a *small tip* when we need to deal with second-order ODE by the Euler Method. Fourtunately, it has very clear physical meanings.**
+
+**That is:**
+
+![formula plus 1](http://latex.codecogs.com/gif.latex?%5Cfrac%7Bd%20%5E%202%20x%7D%7Bdt%20%5E%202%7D%20%3D%200)
+
+![formula plus 2](http://latex.codecogs.com/gif.latex?%5Cfrac%7Bd%20%5E%202%20y%7D%7Bdt%20%5E%202%7D%20%3D%20-%20g%2C)
+
+**Each of the 2nd-order ODE can be transferred into two first-order ODEs, so the two 2nd-order ODEs can be transferred into the following four 1st-order ODEs:**
+
+![formula plus 3](http://latex.codecogs.com/gif.latex?%5Cfrac%7Bdx%7D%7Bdt%7D%20%3D%20v_x)
+
+![formula plus 4](http://latex.codecogs.com/gif.latex?%5Cfrac%7Bdv_x%7D%7Bdt%7D%20%3D%200)
+
+![formula plus 5](http://latex.codecogs.com/gif.latex?%5Cfrac%7Bdy%7D%7Bdt%7D%20%3D%20v_y)
+
+![formula plus 6](http://latex.codecogs.com/gif.latex?%5Cfrac%7Bdv_y%7D%7Bdt%7D%20%3D%20-%20g%2C)
+
+**The situation is our familiar Euler Method for 1st-order OED.**
+
 \n
 
 ### Design of Program and Result 
@@ -137,7 +161,8 @@
 
 ----------
 ## 4.Conclusion
-#### I am sorry I fail to write smoothly in Cmd Markdown.
+#### First, I am sorry I fail to write smoothly in Cmd Markdown.
+
 
 
 
