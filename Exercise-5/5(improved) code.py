@@ -79,7 +79,7 @@ class show_results:
         pl.plot(self.x, self.y,label = "firing angle = %.1f °"%self.theta)
         pl.draw()
         pl.legend(loc='upper right', shadow=True, fontsize='small')
-        print("\n initial velocity:", _input.initial_velocity, "m/s")
+        print("\ninitial velocity:", _input.initial_velocity, "m/s")
         print("time step:", _input.time_step, "s")
         print("firing angle:", self.theta, "°")
         print("falling fange:%.4f km"%self.x[-1], "\n")
