@@ -147,7 +147,6 @@ a.show_results()
 #### **Figure:**
 ![!\[Figure1\](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-5/5%20figure%201.png)][1]
 
-
 **Secondly, (only) add the reduced air density - isothermal**
 
 #### **Codes: (I will only show the parts that I have made some sigificant changes)**
@@ -189,7 +188,7 @@ self.v_y.append(self.v_y[-1] - self.G * self.ME * (self.RE + self.y[-1]) ** (- 2
 
 ----------
 ## 4.Conclusion
-
+#### I am sorry I fail to write smoothly in Cmd Markdown.
 
 
 
