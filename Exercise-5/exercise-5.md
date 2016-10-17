@@ -79,7 +79,10 @@
 
 ----------
 ## **3.Main**
-### I still choose to use the dirty and quick method - The Euler Mehtod (So no more illumination is to be made) 
+
+### Way of Thinking
+
+**I still choose to use the dirty and quick method - The Euler Mehtod (So no more illumination is to be made)**
 
 ### Design of Program and Result (Declaration: The unit of distance is $km$, and other units are in SI)
 
