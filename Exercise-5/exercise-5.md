@@ -113,7 +113,7 @@
 
 **(Declaration: The unit of distance is *km*, and other units are in SI)**
 
-**(Another Declaration: All the constant initial values are taken from the text book or from authoritative references, and they are '*y0 = k_BT/mg ≈ 1.0E+4 m, a ≈ 6.5 K/km, T0 = 300 K, α ≈ 2.5, G = 6.67E-20 N·m²/kg², ME = 5.98E24 kg, RE = 6317 km*')**
+**(Another Declaration: All the constants and initial values are taken from the text book or from authoritative references, and they are '*y0 = k_BT/mg ≈ 1.0E+4 m, a ≈ 6.5 K/km, T0 = 300 K, α ≈ 2.5, G = 6.67E-20 N·m²/kg², ME = 5.98E24 kg, RE = 6317 km, v0 = 700 m/s*')**
 
 **Firstly, I take air drag as a commom premise. Then I will the trojectory of cannon shell only affected by air drag**
 
@@ -159,7 +159,7 @@
 #### **Figure:**
 ![!\[Figure4\](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-5/5%20figure%204.png)][4]
 
-**Maybe, smart you have found something wrong. Yes, there is no comparison. To be more acurrate, there is forever a lonely curve in my previous figures. It is because I hadn't thought up any simple approaches to plot many curves with different initial conditions in one figure. Luckily, finally, I made it with the help of my classmate.
+**Maybe, smart you have found something wrong. Yes, there is no comparison. To be more acurrate, there is forever a lonely curve in my previous figures. Hence, these are also naive programs which I would not like to show. It is because I hadn't thought up any simple approaches to plot many curves with different initial conditions in one figure. Luckily, finally, I made it with the help of my classmate.**
 
 ***So, here comes the improved version(Integrated edition, which means all infaormation are intergrated in only one figure)***
 
@@ -182,9 +182,9 @@
 
 **When it comes to the running results**
 
-### [　　Code: Please Click Here](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-5/5(improved)%20code.py)
+#### [　　Code: Please Click Here](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-5/5(improved)%20code.py)
 
-### [　　Figure: Please Click Here](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-5/5(improved)%20figure.png)
+#### [　　Figure: Please Click Here](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-5/5(improved)%20figure.png)
 
 #### **Figure:**
 
@@ -192,11 +192,40 @@
 
 **Where there is a figure, there is a truth. Please ignore the fact that some of the cures are in the same color, which is simply because there isn't enough types of color for me to draw such plenty curves. Thank you!**
 
+**Forget to tell that all the time steps are *0.01 s* because we have discussed the influence of it in the last homework**
+
+**Sorry to say that the text is copied from my Cmd Markdown version, so there are some special errors that I may not well check out since I have no time to check it out carefully with patience with my time occupied by ssp**
+
+***pity(locks) - no testing and furthur discussion and extension***
+
 ----------
 ## 4.Conclusion
 #### First, I am sorry I fail to write smoothly in Cmd Markdown. So I drop the homework edition of Cmd Markdown.
 
-#### 
+#### Solution
+
+* **EXERCISES 2.8.: **
+
+**qualitative analysis: very small**
+
+* **EXERCISES 2.9.:**
+
+**quantative outcomes:**
+
+> initial velocity: 70.0 m/s
+  time step: 0.01 s
+  maximum firing range: 0.4915 km
+  corresponding firing angle: 44.9°. 
+  
+**(By the way, I find I forget to give the method of solving the maxmizing problem. To be Brief, SCANNING till the range decreases. The mathematical base is the monotonicity)**
+
+#### Of course I still have many wonders that I can't solve now. In fact, I even manage thi improves program with an effort. Some more details are still to be understood.
+
+#### Self-reflection
+
+* **One of the drawbacks of my homework: verbose**
+
+* **One of the progress of my homework: I begin to write notes in my programs**
 
 
 
