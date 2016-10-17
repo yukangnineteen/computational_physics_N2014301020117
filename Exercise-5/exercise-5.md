@@ -106,11 +106,12 @@
 ![formula plus 6](http://latex.codecogs.com/gif.latex?%5Cfrac%7Bdv_y%7D%7Bdt%7D%20%3D%20-%20g%2C)
 
 **The situation is our familiar Euler Method for 1st-order OED.**
-\n
+<br: />
+
 
 ### Design of Program and Result 
 
-**(Declaration: The unit of distance is ***km***, and other units are in SI)**
+**(Declaration: The unit of distance is *km*, and other units are in SI)**
 
 **Firstly, I take air drag as a commom premise. Then I will the trojectory of cannon shell only affected by air drag**
 
