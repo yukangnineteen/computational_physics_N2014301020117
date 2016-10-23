@@ -1,4 +1,4 @@
-# Computational Physics Homework 4
+# Computational Physics Homework 6
 ***
 
 #### Student class: 14级弘毅班
