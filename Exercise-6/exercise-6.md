@@ -1,12 +1,12 @@
 # Computational Physics Homework 6
 ***
 
-#### Student class: 14级弘毅班
-#### Student name: 余康
+#### Student class: 14 Hong Yi
+#### Student name: Kang Yu
 #### Student number: 2014301020117
 ***
 
-## **1.Abstract（摘要）**
+## **1.Abstract**
 
 > 作业分两个层次来做，大家自己选择
 
@@ -116,7 +116,7 @@
 
 * **When investigating the minimum firing velocity: time step is 0.01 s, velocity of wind is 10 m/s, angle of wind is 135°.**
 
-#### ▶ **Deal with different altitudes(y0 = -100 m)**
+#### ▶ **Add the wind drag (y0 = -100 m)**
 
 **I change the angle of wind from 85° to 95° to show the effect of the wind: 85° - 89° represents tailwind; 91° - 95° represents headwind**
 
@@ -132,13 +132,83 @@
 
 ![figure1](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-6/6%20figure1.png)
 
+### [　　Code: Please Click Here](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-6/6%20code.py)
 
+### [　　Figure: Please Click Here](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-6/6%20figure2.png)
 
+#### **Figure:**
 
+![figure2](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-6/6%20figure2.png)
 
+### [　　Code: Please Click Here](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-6/6%20code.py)
 
+### [　　Figure: Please Click Here](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-6/6%20figure3.png)
 
+#### **Figure:**
+
+![figure3](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-6/6%20figure3.png)
+
+**These pictures show the effects of wind drag. Evidently tailwind helps the baseball-shell fly furthur, and headwind prevents the baseball-shell flying furthur. It consists in our practice.**
+
+***Small tips: The tool 'Zoom to rectangular' allow us to choose part of figure to display with appropriate plotting scales to show more details.***
+
+#### ▶ **Investigate minimum "firing" velocity (x0 = 220 m, y0 = -100 m)**
+
+**I run my program to explore the minimum velocity under the fixed initial conditions. Next, I will show my approaching method in the following figures with different plotting scales.
+
+### [　　Code: Please Click Here](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-6/6%20code.py)
+
+### [　　Figure: Please Click Here](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-6/6%20figure4.png)
+
+#### **Figure:**
+
+![figure4](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-6/6%20figure4.png)
              
-             
-             
+**There seems to be only one curve in the figure, but I will gradually revel the truth.**
+
+### [　　Code: Please Click Here](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-6/6%20code.py)
+
+### [　　Figure: Please Click Here](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-6/6%20figure5.png)
+
+#### **Figure:**
+
+![figure5](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-6/6%20figure5.png)
+
+### [　　Code: Please Click Here](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-6/6%20code.py)
+
+### [　　Figure: Please Click Here](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-6/6%20figure6.png)
+
+#### **Figure:**
+
+![figure6](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-6/6%20figure6.png)  
+
+### [　　Code: Please Click Here](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-6/6%20code.py)
+
+### [　　Figure: Please Click Here](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-6/6%20figure7.png)
+
+#### **Figure:**
+
+![figure7](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-6/6%20figure7.png)
+
+### [　　Code: Please Click Here](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-6/6%20code.py)
+
+### [　　Figure: Please Click Here](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-6/6%20figure8.png)
+
+#### **Figure:**
+
+![figure8](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-6/6%20figure8.png)
+
+### [　　Code: Please Click Here](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-6/6%20code.py)
+
+### [　　Figure: Please Click Here](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-6/6%20figure9.png)
+
+#### **Figure:**
+
+![figure9](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-6/6%20figure9.png)
+
+**These figures show the same scanning process in different plotting scales. From left to right, the falling point of my baseball-shell appoaches x0(220 m). The velocity changes one time; the angle changes 10 times correspondingly if x0 is not reached. Once x0 is reached, the program prints the corresponding velocity and angle. As we see, only the last curve reaches(exceeds) x0, so the program stops here(no more calculation and plotting).**
+
+***In fact, the final scan intervals are extremely small: v += 0.00001, θ += 0.0001.*** 
+
+
              
