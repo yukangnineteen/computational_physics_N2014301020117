@@ -134,11 +134,11 @@
 
 ### [　　Code: Please Click Here](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-6/6%20code.py)
 
-### [　　Figure: Please Click Here](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-6/6%20figure2.png)
+### [　　Figure: Please Click Here](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-6/6%20figure2%20.png)
 
 #### **Figure:**
 
-![figure2](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-6/6%20figure2.png)
+![figure2](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-6/6%20figure2%20.png)
 
 ### [　　Code: Please Click Here](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-6/6%20code.py)
 
