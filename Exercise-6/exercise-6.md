@@ -92,7 +92,7 @@
 
 * **Intersection**
 
-**Finally, I need to find the intersection(In fact, what is needed to be calculated is the horizontal coordinate.) of the trajectory and the horizontal line and set it as the last point of the trajectory.
+**Finally, I need to find the intersection(In fact, what is needed to be calculated is the horizontal coordinate.) of the trajectory and the horizontal line and set it as the last point of the trajectory.**
 
 #### ▶ **Investigate minimum "firing" velocity**
 
