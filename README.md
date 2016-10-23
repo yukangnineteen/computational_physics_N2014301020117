@@ -19,11 +19,11 @@
 ***
 ## **Homework List**
 #### （✔）[Exercise_01: Preparations for the course](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-1/exercise-1.md)
-#### （✔）[Exercise_02: Thr first python program](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-2/exercise-2.md)
+#### （✔）[Exercise_02: The first python program](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-2/exercise-2.md)
 #### （✔）[Exercise_03: Just move and rotate](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-3/exercise-3.md)
 #### （✔）[Exercise_04: Chapter 1 problem 1.5: The decay of two kinds of particles](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-4/exercise-4.md)
 #### （✔）[Exercise_05: Chapter 2 problem 2.9 & 2.10: The cannon](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-5/exercise-5.md)
-#### [Exercise_06:](https://)
+#### （✔）[Exercise_06: Chapter 2 problem 2.10: Precise-guided baseball](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-6/exercise-6.md)
 #### [Exercise_07:](https://)
 #### [Exercise_08:](https://)
 #### [Exercise_09:](https://)
