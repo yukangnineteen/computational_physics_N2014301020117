@@ -106,7 +106,31 @@
 
 * #### *The Double-Scan Algorithm*
 
-### Design of Program and Result 
+### Design of Program and Result
+
+**Declaration: In the following programs, for simplicity we will fix some initial conditions**
+
+* ***For all cases, the vertical coordinate of the target is fixed at -100 m, and the horizontal coordinate is 220 m.***
+
+* **When adding the effect of wind: initial velocity is 110 m/s, firing angle is 45°, velocity of the wind is 10 m/s, time step is 0.01 s.**
+
+* **When investigating the minimum firing velocity: time step is 0.01 s, velocity of wind is 10 m/s, angle of wind is 135°.**
+
+#### ▶ **Deal with different altitudes(y0 = -100 m)**
+
+**I change the angle of wind from 85° to 95° to show the effect of the wind: 85° - 89° represents tailwind; 91° - 95° represents headwind**
+
+* **This is its source codes**
+
+### [　　Code: Please Click Here](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-6/6%20code.py)
+
+* **This is its figure results**
+
+### [　　Figure: Please Click Here](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-6/6%20figure1.png)
+
+#### **Figure:**
+
+![figure1](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-6/6%20figure1.png)
 
 
 
