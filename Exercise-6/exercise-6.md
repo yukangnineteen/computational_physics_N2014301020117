@@ -116,6 +116,8 @@
 
 * **When investigating the minimum firing velocity: time step is 0.01 s, velocity of wind is 10 m/s, angle of wind is 135°.**
 
+* ****Because I adopt the method of class programming, so all the codes are in one pyhton file. So, all the following 'Code' links lead to the same file.***
+
 #### ▶ **Add the wind drag (y0 = -100 m)**
 
 **I change the angle of wind from 85° to 95° to show the effect of the wind: 85° - 89° represents tailwind; 91° - 95° represents headwind**
@@ -154,7 +156,7 @@
 
 #### ▶ **Investigate minimum "firing" velocity (x0 = 220 m, y0 = -100 m)**
 
-**I run my program to explore the minimum velocity under the fixed initial conditions. Next, I will show my approaching method in the following figures with different plotting scales.
+**I run my program to explore the minimum velocity under the fixed initial conditions. Next, I will show my approaching method in the following figures with different plotting scales.**
 
 ### [　　Code: Please Click Here](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-6/6%20code.py)
 
