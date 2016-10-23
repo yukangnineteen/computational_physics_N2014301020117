@@ -212,5 +212,49 @@
 
 ***In fact, the final scan intervals are extremely small: v += 0.00001, θ += 0.0001.*** 
 
+***
+
+## ☆ Level 1
+
+***to be continued***
+
+***
+
+## **4.Conclusion**
+
+#### I am happy to see that Github is alright now!
+
+#### Solution
+
+* **Level 1**
+
+**quantative outcomes:**
+
+>220.00000234531348 
+
+>81.09590
+
+>7.1617
+
+**The physical meanings of these outputs: to reach the target, the minimum velocity is 81.09590 m/s; the corresponding firing angle is 7.1617°, and the falling point distance is 220.00000234531348m, which is approximately equal to 220m.**
+
+* **Level 2**
+
+***Not solved yet. Beacuse there are some obstacles that can't be overcome yet.***
+
+#### Self-reflection
+
+* **Some of the drawbacks of my homework: not creative and not ready to try new methods when the homework is not that terrible can be handed in.**
+
+* **One of the progress of my homework: I can use class programming more expertly**
+
+***
+
+## **5.Acknowledgement**
+
+* our devoted Prof. Cai
+* Zhang Zitong (ZZT)
+
+
 
              
