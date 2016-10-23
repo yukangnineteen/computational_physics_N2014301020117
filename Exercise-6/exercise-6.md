@@ -66,15 +66,49 @@
 
 ### Way of Thinking
 
+#### ▶ **Add the wind drag**
+
 **It is a piece of cake to add the effect of the wind. The only thing to take care of is the algorithm of vector calculation, i.e., velocity stack. I think the orthogonal decomposition is the easiest method.**
+
+#### ▶ **Deal with different altitudes**
 
 **Net problem we will meet is that the target can be higher and lower than the "baseball-cannon".**
 
 * **If the target is lower**
 
-**This is an easier case because the trajectory will only intersect the horizontal line of the altitude of the target once.**
+**This is an easier case because the trajectory can only intersect the horizontal line of the altitude of the target once.**
 
-**So the judgement condition to stop to find the intersection can be easily written as 
+**So the judgement condition to stop to find the intersection can be easily written: 'y[i] < y0', where y0 < 0 and is the vertical coordinate of the target.**
+
+* **If the target is higher**
+
+**This is more complex because the trajectory can intersect the horizontal line of the altitude of the target twice.**
+
+**But we can reduce complexity by physical analysis to a certain extent: it is easy to conclude that the initial velocity of the "baseball shell" which hit the target when it crosses the horizontal line of the taget the first time is larger than that when it crosses the horizontal line of the target the second time. So for convenience of further requirement of the problem, I will only expalin how to find the second intersection. (Furthermore, the way to find the first intersection is the same as that in last case.)**
+
+**So after analysis the judgement conditions to find the intersection can be written: 'y[i - 1] > y0 and y[i] < y0', wehere y0 > 0.**
+
+**Imagine the trajectory in your mind, and you will easily understand it. We make use of the monotonicity of the parabola-like curve. It is not right all the time becasuse in fact the real function of the projectory is not analytic, let alone definite monotonicity but combined with our experience it is right most of the time.**
+
+* **Intersection**
+
+**Finally, I need to find the intersection(In fact, what is needed to be calculated is the horizontal coordinate.) of the trajectory and the horizontal line and set it as the last point of the trajectory.
+
+#### ▶ **Investigate minimum "firing" velocity**
+
+**We can scan both velocities and firing angles to minimize the velocity. By physical qualitative analysis I conclude that it is better to scan from smaller to bigger values of both velocities and firing angles. What we need to determine is the minimum of velocity, so we need to scan all the angles for a set velocity, and then if there is no angle satisfying the requirement to reach the target point, we should increase the velocity a little bit. In the same word, what we need to do is to scan velocities, and for every determined velocity, scan angles. It is very easy to think up nested loop structure to realize the algorithm. And break all the loop structures when the requirement is satisfied: 'x[-1] > x0', where x0 is the horizontal coordinate of the target.**
+
+***A small trick: Actually this algorithm demands a large amount of computation takes a large amount of computating time. To decrease the amount of computation and computating time(positively correlated) and improve the accuracy(negatively correlated ), I decrease the scanning scales and the scaaning intervals gradually.***
+
+### *Summary:*
+
+* #### *The Euler Methos*
+
+* #### *The Double-Scan Algorithm*
+
+### Design of Program and Result 
+
+
 
 
 
