@@ -24,7 +24,7 @@
 #### （✔）[Exercise_04: Chapter 1 problem 1.5: The decay of two kinds of particles](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-4/exercise-4.md)
 #### （✔）[Exercise_05: Chapter 2 problem 2.9 : The cannon](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-5/exercise-5.md)
 #### （✔）[Exercise_06: Chapter 2 problem 2.10: Precise-guided baseball](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-6/exercise-6.md)
-#### （✔）[Exercise_07: Chapter 3 problem 3.13 & 3.14: Non-linear oscillator](https://http://www.jianshu.com/p/045c5b8c91fb)
+#### （✔）[Exercise_07: Chapter 3 problem 3.13 & 3.14: Non-linear oscillator](https://www.jianshu.com/p/045c5b8c91fb)
 #### [Exercise_08:](https://)
 #### [Exercise_09:](https://)
 #### [Exercise_10:](https://)
