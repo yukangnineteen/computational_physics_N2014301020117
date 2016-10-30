@@ -13,7 +13,7 @@
 ##### （老师原文：致谢（本课程既然全网络共享，允许诸位同学借鉴他人的程序，如有借鉴请致谢。作业其他内容严禁『借鉴』！！！））
 ***
 ## **Study Motivation**
-> #### *　The world won't care about your self-easteem. The world will expect you to accomplish something before you feel good about yourself.*　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　        　　－*by* ***Bill Gates***
+> #### *　The world won't care about your self-easteem. The world will expect you to accomplish something before you feel good about yourself.*　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　        　　　－*by* ***Bill Gates***
 
 ![bill Gates](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-1/Bill%20Gates%20image.jpg)
 ***
@@ -24,7 +24,7 @@
 #### （✔）[Exercise_04: Chapter 1 problem 1.5: The decay of two kinds of particles](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-4/exercise-4.md)
 #### （✔）[Exercise_05: Chapter 2 problem 2.9 & 2.10: The cannon](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-5/exercise-5.md)
 #### （✔）[Exercise_06: Chapter 2 problem 2.10: Precise-guided baseball](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-6/exercise-6.md)
-#### [Exercise_07:](https://)
+#### （✔）[Exercise_07:](https://http://www.jianshu.com/p/045c5b8c91fb)
 #### [Exercise_08:](https://)
 #### [Exercise_09:](https://)
 #### [Exercise_10:](https://)
