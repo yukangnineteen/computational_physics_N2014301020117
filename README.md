@@ -26,7 +26,7 @@
 #### （✔）[Exercise_06: Chapter 2 problem 2.10: Precise-guided baseball](https://github.com/yukangnineteen/computational_physics_N2014301020117/blob/master/Exercise-6/exercise-6.md)
 #### （✔）[Exercise_07: Chapter 3 problem 3.13 & 3.14: Non-linear oscillator](https://www.jianshu.com/p/045c5b8c91fb)
 #### （✔）[Exercise_08: Chapter 3 problem 3.19: Nothing new](https://www.jianshu.com/p/8ef95d976381)
-#### [Exercise_09:](https://)
+#### （✔）[Exercise_09: Chapter 3 problem 3.19: Billiard problem](https://www.jianshu.com/p/a8b376f5aa2a)
 #### [Exercise_10:](https://)
 #### [Exercise_11:](https://)
 #### [Exercise_12:](https://)
