@@ -29,7 +29,7 @@
 #### （✔）[Exercise_09: Chapter 3 problem 3.30: Billiard problem](https://www.jianshu.com/p/a8b376f5aa2a)
 #### （✔）[Exercise_10: Chapter 4 problem 4.9 & 4.10: Solar system](https://www.jianshu.com/p/8a50bc75168c)
 #### （✔）[Exercise_11: Chapter 4 problem 4.19 & 4.20: Hyperion](https://www.jianshu.com/p/5d61a1bfec3d)
-#### [Exercise_12:](https://)
+#### （✔）[Exercise_12: Chapter 5 problem 5.7: Electric field](https://www.zybuluo.com/mdeditor#597510)
 #### [Exercise_13:](https://)
 #### [Exercise_14:](https://)
 #### [Final Project:](https://)
