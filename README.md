@@ -31,7 +31,7 @@
 #### （✔）[Exercise_11: Chapter 4 problem 4.19 & 4.20: Hyperion](https://www.jianshu.com/p/5d61a1bfec3d)
 #### （✔）[Exercise_12: Chapter 5 problem 5.7: Electric field](https://www.zybuluo.com/yukangnineteen/note/597510)
 #### （✔）[Exercise_13: Chapter 6 problem 6.12: Waves](https://www.jianshu.com/p/1b89bfa2a7b3)
-#### [Exercise_14:](https://)
-#### [Final Project:](https://)
+<br />
+#### （✔）[Final Project: Chapter 7: Random walk](https://www.jianshu.com/p/aafc18a089db)
 <br />
 #### Not finished and to be continued...
