@@ -34,4 +34,4 @@
 <br />
 #### （✔）[Final Project: Chapter 7: Random walk](https://www.jianshu.com/p/aafc18a089db)
 <br />
-#### Not finished and to be continued...
+#### Finished now.
